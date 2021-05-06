@@ -9,7 +9,7 @@ It's seems easy, Wikipedia is enough for that.
 If it's not enough, there are 3 books (in Russian)  
 of **Dean Fantazzini**, probably it's enough for theory.  
 
-
++ try to fit copulas in Python 
 -------------
 Future plans
 
